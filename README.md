@@ -35,3 +35,4 @@
 <p align="center">
   <img src="dataEverywhere.gif" alt="Data Everywhere GIF" width="400" />
 </p>
+<br><br>
