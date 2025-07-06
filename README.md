@@ -30,7 +30,8 @@
   <!-- Data Visualization GIF -->
   <img src="https://next3-assets.s3.amazonaws.com/activities/1321/backgrounds-1495419125-graphs_a4_72dpi.gif" alt="Data Visualization" title="Data Visualization" width="36" height="36" style="object-fit: cover; border-radius: 4px;"/>
 </div>
-
+ <hr>
+<br><br>
 <p align="center">
   <img src="dataEverywhere.gif" alt="Data Everywhere GIF" width="400" />
 </p>
